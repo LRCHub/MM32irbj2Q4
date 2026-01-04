@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "魔法のコトバ",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-01-04T13:03:36.661974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_魔法のコトバ_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_魔法のコトバ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/03_魔法のコトバ_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_魔法のコトバ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/05_魔法のコトバ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Say you luv me～魔法のコトバ～",
+      "artist": "Foxxi misQ",
+      "has_synced": false,
+      "path": "select/06_Say_you_luv_me~魔法のコトバ~_Foxxi_misQ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_魔法のコトバ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "魔法のコトバ",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/08_魔法のコトバ_Spitz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "魔法のコトバ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_魔法のコトバ_スピッツ.txt"
+    }
+  ]
+}
